@@ -1,0 +1,27 @@
+{
+  "quiz_title": "Python Basic Quiz",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Python me list ka data type kya hota hai?",
+      "options": [
+        "Mutable",
+        "Immutable",
+        "Constant",
+        "Static"
+      ],
+      "correct_answer": "Mutable"
+    },
+    {
+      "id": 2,
+      "question": "JSON ka full form kya hai?",
+      "options": [
+        "Java Source Object Notation",
+        "JavaScript Object Notation",
+        "Java Structured Object Network",
+        "None of these"
+      ],
+      "correct_answer": "JavaScript Object Notation"
+    }
+  ]
+}
