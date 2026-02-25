@@ -1,4 +1,4 @@
 import json
-json_data = '{"rollno":5,"result":"pass"}'
-data = json.loads(json_data)
-print(data)
+data = {"roolno":45,"result":"pass"}
+with open("class 1.json","w") as json_file:
+    json.dump(data,json_file)
